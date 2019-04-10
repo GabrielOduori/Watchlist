@@ -14,8 +14,7 @@ class ProdConfig(Config):
         configuration settings
     '''
     pass
-    
-    
+  
     
 class DevConfig(Config):
     '''
